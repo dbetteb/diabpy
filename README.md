@@ -19,8 +19,7 @@ Typically, to allow people to see how data is gathered and aggregated.
 ## Requirements and installation
 
 `diabpy` will run on many PC environment with a Python installation (3.5+).
-Its primary goal is to provide non-IT developpers with an easy interface for computing some
-statistics over recorder glycemia levels and visualise them.
+Its primary goal is to provide non-IT developpers with an easy interface for computing some statistics over recorder glycemia levels and visualise them. These statistics are similar to the ones provided by diabetes management platform such as Diabetes:M.
 
 
 ## Sources
@@ -30,4 +29,7 @@ statistics over recorder glycemia levels and visualise them.
 ## Links
 
 
+
+
+## Disclosure
 
