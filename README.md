@@ -9,7 +9,9 @@ A set of public tools for visualisation, management of Type 1 Diabetes Glucose M
 Many Continuous Glucose Monitoring systems come with their proprietary format to visualize one's personal data.
 Typically Freestyle Libre has its own software available only for Windows to visualize glycemia levels.
 While this data is personnal, it should be obvious that anyone can access it and visualize it with open-source tools.
-Typically, to allow people to see how data is gathered and aggregated.
+Typically to allow people to see how data is gathered and aggregated, to help praticians to set their own parameters and more generally to provide an easy-to-use and open source platform to visualize people personnal health related data.
+
+In addition, `diabpy` integrates Machine Learning capabilities. 
 
 ## diabpy
 
